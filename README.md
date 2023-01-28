@@ -8,7 +8,7 @@
 <img width="80%" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068958830429483008/tumblr_4a61f6d589851d375cc37802789283a4_9ae5a3ac_640.webp">
 </div>
 
-<h2 align="center">Meu nome é Clebson Dantas, estou estudando para ser um Programador de Front-end.<img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068961675996303460/1estrela.png"> </h2>
+<h2 align="center">Meu nome é Clebson Dantas, estou estudando para ser um Programador Front-end.<img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068961675996303460/1estrela.png"> </h2>
 
 <h3> <img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068962772378980422/5estrelas.png"> Um pouco sobre mim: </h3>
 
