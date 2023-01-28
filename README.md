@@ -1,12 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e0872&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;Me+chamo+Clebson+Dantas;Tenho+20+anos;Estudo+Programação+Front-end;Resido+em+Recife-PE,+Brasil;)](https://git.io/typing-svg)
 <h1 align="center" > Oi eu sou o Cleb, Bem vindo(a) ao meu repositório! <br> <img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068951949803782265/esfera4.png"> </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;Me+chamo+Clebson+Dantas;Tenho+20+anos;Estudo+Programação+Front-end;Resido+em+Recife-PE,+Brasil;)](https://git.io/typing-svg)
+
 <div align="center">
 <img width="80%" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068958830429483008/tumblr_4a61f6d589851d375cc37802789283a4_9ae5a3ac_640.webp">
 </div>
 
-<h2 align="center">Olá, meu nome é Clebson Dantas, estou estudando para ser um Programador de Games.<img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068961675996303460/1estrela.png"> </h2>
+<h2 align="center">Meu nome é Clebson Dantas, estou estudando para ser um Programador de Front-end.<img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068961675996303460/1estrela.png"> </h2>
 
 <h3> <img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068962772378980422/5estrelas.png"> Um pouco sobre mim: </h3>
 
