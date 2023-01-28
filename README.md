@@ -22,30 +22,31 @@
 🎮Gosto bastante de jogos, mas no momento o foco é em estudar.
 
  <div align="center">
- <h3> ⚙️🔧| GitHub Statistics <img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068965534755979344/5s.png"> </h3>
+ <h3> <img width="40px" content="center" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068968620555772015/2s.png"> ⚙️🔧| GitHub Statistics <img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068965534755979344/5s.png"> </h3>
   <a href="https://github.com/ClebSantos404">
   <img height="170em" width="380em" src="https://github-readme-stats.vercel.app/api?username=ClebSantos404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="170em" width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClebSantos404&layout=compact&langs_count=6&theme=tokyonight"/> <br>
-  <img width="40px" content="center" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068968620555772015/2s.png">
 </div>
 
 <div align="center">
-<p align="center">☎💬| <b>Contato<b> <br>
-<img width="40px"src="https://cdn.discordapp.com/attachments/1066756326404927558/1068973164832497714/7s.png"> </p> 
+<p align="center"> <img width="40px"src="https://cdn.discordapp.com/attachments/1066756326404927558/1068973164832497714/7s.png"> ☎💬| <b>Contato<b> <br> </p> 
   <a href="https://www.instagram.com/cleb.sz3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:clebsond.trabalho404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/clebsondantas404/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+ 
+<br>
+ 
 <div align="center">
 <p align="center">💻 <b>Visitantes no Perfil<b> </p>
  <img align="center" src="https://profile-counter.glitch.me/ClebSantos404/count.svg" > <br>
  <img width="40px" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068971292902039622/3s.png">
 </div>
-
+ 
 <div align="center">
 <h1> Parabéns você invocou o ShenLong <br>
 Faça um Desejo!</h1>
 <img widh="100%" src="https://cdn.discordapp.com/attachments/1066756326404927558/1068980155344752721/long.webp">
+ 
 <br>
 <br>
 <p> <b>Você torna-se aquilo em que pensa.
