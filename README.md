@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e0872&height=120&section=header"/>
 
-<h1 align="center" > Oi eu sou o Cleb, Estudante de Desenvolvimento Front-end! <br> </h1>
-<p>Tenho um desejo enorme de ser um programador de Games, mas primeiro a gente começa do básico. Sou de Recife-PE, gosto muito de ler livros de autoconhecimento e assistir conteúdo relacionados a games e programação, mas no momento meu foco total é em estudar.<p>
+<h1 align="center" > Hi, I am Cleb, student of Front-end Web Developer! <br> </h1>
+<p>I have a desire in developer ideas, but first we start on the basic. i'm from Recife-PE, I like really to read books of self knowledge and watch content related the games and developer, but in this moment my focus total is for studying.<p>
  
  <div>
 <img align="center" alt="cleb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,8 +25,8 @@
 
 </div>
 
-<h3> Um pouco sobre mim: </h3>
-<h4>🖥️ Estudo programação em cursos onlines, como:</h4>
+<h3> A little about me: </h3>
+<h4>🖥️ studying programming in online courses, how:</h4>
  <ul> 
     <li>CursoEmVideo</li>
     <li>Rocketseat</li>
@@ -45,13 +45,13 @@
 <br>
  
 <div align="center">
-<p align="center">💻 <b>Visitantes no Perfil<b> </p>
+<p align="center">💻 <b>visitors in Profile<b> </p>
  <img align="center" src="https://profile-counter.glitch.me/ClebSantos404/count.svg" > <br>
 </div>
  
 <br>
 <div align="center">
-<p> <b>Você torna-se aquilo em que pensa.
+<p> <b>You become what you think about.
 <br> -Earl Nightingale <b> </p>
 </div>
 
