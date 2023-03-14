@@ -26,7 +26,7 @@
 </div>
 
 <h3> A little about me: </h3>
-<h4>🖥️ studying programming in online courses, how:</h4>
+<h4>🖥️ Studying programming in online courses, how:</h4>
  <ul> 
     <li>CursoEmVideo</li>
     <li>Rocketseat</li>
@@ -45,7 +45,7 @@
 <br>
  
 <div align="center">
-<p align="center">💻 <b>visitors in Profile<b> </p>
+<p align="center">💻 <b>Visitors in Profile<b> </p>
  <img align="center" src="https://profile-counter.glitch.me/ClebSantos404/count.svg" > <br>
 </div>
  
