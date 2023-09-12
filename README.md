@@ -39,13 +39,6 @@
  Welcome to explore my work and journey as I walk the exciting path of web development. I can't wait to share my creations and learn from this amazing community!
 </h4>
 
- <div align="center">
- <h3> ⚙️🔧| GitHub Statistics</h3>
-  <a href="https://github.com/ClebSantos404">
-  <img height="170em" width="380em" src="https://github-readme-stats.vercel.app/api?username=ClebSantos404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <br>
-</div>
-
 <br>
  
 <div align="center">
