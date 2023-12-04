@@ -4,8 +4,8 @@
 ### O meu nome é Clebson, Seja bem-vindo ao meu perfil GitHub. <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/398044954_885539009931875_5339859885881607142_n.png?_nc_cat=102&ccb=1-7&_nc_sid=510075&_nc_ohc=HQwPbzBoyzMAX8mNY3x&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQvhjpJAlMiUi3ewv-ZPPF3yhEsKlI6Ek9dBDHdBvJadA&oe=658562CA" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Recife/PE, Brasil
-- ⚡ Apaixonado por Jazz/Lofi e Tecnologia
-- 🧠 Estudante de Desenvolvimento Front-end
+- ⚡ Apaixonado por leitura, Jazz/Lofi e Tecnologia
+- 🧠 Profissional de Desenvolvimento Front-end
 
 ##
 
